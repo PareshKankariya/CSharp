@@ -1,0 +1,1 @@
+C:\LAFit\Per\C#\test\test\bin\Debug\test.exe.config

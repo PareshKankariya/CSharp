@@ -1,0 +1,10 @@
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\bin\Debug\CreateDatabase.exe.config
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\bin\Debug\NewEmployee.mdf
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\bin\Debug\NewEmployee_log.ldf
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\bin\Debug\CreateDatabase.exe
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\bin\Debug\CreateDatabase.pdb
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.Properties.Resources.resources
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.exe
+C:\LAFit\Per\C#\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.pdb

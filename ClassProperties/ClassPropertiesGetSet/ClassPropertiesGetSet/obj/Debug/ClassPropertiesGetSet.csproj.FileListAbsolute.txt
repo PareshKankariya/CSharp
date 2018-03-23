@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\bin\Debug\ClassPropertiesGetSet.exe.config
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\bin\Debug\ClassPropertiesGetSet.exe
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\bin\Debug\ClassPropertiesGetSet.pdb
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\obj\Debug\ClassPropertiesGetSet.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\obj\Debug\ClassPropertiesGetSet.Form1.resources
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\obj\Debug\ClassPropertiesGetSet.Properties.Resources.resources
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\obj\Debug\ClassPropertiesGetSet.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\obj\Debug\ClassPropertiesGetSet.exe
+C:\LAFit\Per\C#\ClassProperties\ClassPropertiesGetSet\ClassPropertiesGetSet\obj\Debug\ClassPropertiesGetSet.pdb

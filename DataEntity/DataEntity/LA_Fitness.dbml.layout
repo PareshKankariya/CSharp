@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.875" name="LA_Fitness">
+  <DataContextMoniker Name="/LA_FitnessDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2011f997-b826-40e7-a6c3-e2a52909e85e" absoluteBounds="2.125, 2.125, 2, 8.5014469401041666">
+      <DataClassMoniker Name="/LA_FitnessDataContext/CustomerOrig_Extended" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f7c272de-862c-455a-8c12-a921883eb4f5" absoluteBounds="2.14, 2.585, 1.9700000000000002, 7.941446940104167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

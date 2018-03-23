@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\LAFit\Per\C#\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

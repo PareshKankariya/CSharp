@@ -1,0 +1,8 @@
+C:\LAFit\Per\C#\dt\dt\bin\Debug\dt.exe.config
+C:\LAFit\Per\C#\dt\dt\bin\Debug\dt.exe
+C:\LAFit\Per\C#\dt\dt\bin\Debug\dt.pdb
+C:\LAFit\Per\C#\dt\dt\obj\Debug\dt.Form1.resources
+C:\LAFit\Per\C#\dt\dt\obj\Debug\dt.Properties.Resources.resources
+C:\LAFit\Per\C#\dt\dt\obj\Debug\dt.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\dt\dt\obj\Debug\dt.exe
+C:\LAFit\Per\C#\dt\dt\obj\Debug\dt.pdb

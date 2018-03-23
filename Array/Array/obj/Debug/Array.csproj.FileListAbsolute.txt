@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\Array\Array\bin\Debug\Array.exe.config
+C:\LAFit\Per\C#\Array\Array\bin\Debug\Array.exe
+C:\LAFit\Per\C#\Array\Array\bin\Debug\Array.pdb
+C:\LAFit\Per\C#\Array\Array\obj\Debug\Array.exe
+C:\LAFit\Per\C#\Array\Array\obj\Debug\Array.pdb
+C:\LAFit\Per\C#\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache

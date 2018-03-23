@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LocalADWorks">
+  <DataContextMoniker Name="/LocalADWorksDataContext" />
+  <nestedChildShapes>
+    <classShape Id="da6a8f9a-7cd6-48b4-897d-b5622e90f488" absoluteBounds="3.5, 1, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LocalADWorksDataContext/Person" />
+      <nestedChildShapes>
+        <elementListCompartment Id="278f699b-37ce-477e-96b8-3726b8b22e34" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ace73680-f6bf-48f7-b415-8e51c9dcddde" absoluteBounds="6.25, 1.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LocalADWorksDataContext/PersonPhone" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3988db1b-a189-46c3-89a6-98f15b03eb8c" absoluteBounds="6.265, 2.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71b593d9-2ddf-4382-afec-f2738effa577" absoluteBounds="0.75, 2, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/LocalADWorksDataContext/BusinessEntity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d6287ec3-c3b0-435f-bb1c-9d7064f4bd11" absoluteBounds="0.765, 2.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.66429768880208); (6.25 : 2.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LocalADWorksDataContext/Person/Person_PersonPhone" />
+      <nodes>
+        <classShapeMoniker Id="da6a8f9a-7cd6-48b4-897d-b5622e90f488" />
+        <classShapeMoniker Id="ace73680-f6bf-48f7-b415-8e51c9dcddde" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.69314697265625); (3.5 : 2.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LocalADWorksDataContext/BusinessEntity/BusinessEntity_Person" />
+      <nodes>
+        <classShapeMoniker Id="71b593d9-2ddf-4382-afec-f2738effa577" />
+        <classShapeMoniker Id="da6a8f9a-7cd6-48b4-897d-b5622e90f488" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

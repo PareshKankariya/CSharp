@@ -1,0 +1,10 @@
+C:\LAFit\Per\C#\multipleForms\multipleForms\bin\Debug\multipleForms.exe.config
+C:\LAFit\Per\C#\multipleForms\multipleForms\bin\Debug\multipleForms.exe
+C:\LAFit\Per\C#\multipleForms\multipleForms\bin\Debug\multipleForms.pdb
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.Form1.resources
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.Properties.Resources.resources
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.exe
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.pdb
+C:\LAFit\Per\C#\multipleForms\multipleForms\obj\Debug\multipleForms.Form2.resources

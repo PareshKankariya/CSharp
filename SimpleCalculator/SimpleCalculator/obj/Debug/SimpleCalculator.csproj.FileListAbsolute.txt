@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\LAFit\Per\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

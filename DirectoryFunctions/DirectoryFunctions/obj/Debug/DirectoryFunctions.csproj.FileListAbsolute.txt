@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\bin\Debug\DirectoryFunctions.exe.config
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\obj\Debug\DirectoryFunctions.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\obj\Debug\DirectoryFunctions.Form1.resources
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\obj\Debug\DirectoryFunctions.Properties.Resources.resources
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\obj\Debug\DirectoryFunctions.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\bin\Debug\DirectoryFunctions.exe
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\bin\Debug\DirectoryFunctions.pdb
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\obj\Debug\DirectoryFunctions.exe
+C:\LAFit\Per\C#\DirectoryFunctions\DirectoryFunctions\obj\Debug\DirectoryFunctions.pdb

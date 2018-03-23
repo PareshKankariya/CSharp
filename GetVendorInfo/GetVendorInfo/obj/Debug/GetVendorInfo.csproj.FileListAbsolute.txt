@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\bin\Debug\GetVendorInfo.exe.config
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\bin\Debug\GetVendorInfo.exe
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\bin\Debug\GetVendorInfo.pdb
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\obj\Debug\GetVendorInfo.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\obj\Debug\GetVendorInfo.Form1.resources
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\obj\Debug\GetVendorInfo.Properties.Resources.resources
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\obj\Debug\GetVendorInfo.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\obj\Debug\GetVendorInfo.exe
+C:\LAFit\Per\C#\GetVendorInfo\GetVendorInfo\obj\Debug\GetVendorInfo.pdb

@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\bin\Debug\DisplayArrayValues.exe.config
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\bin\Debug\DisplayArrayValues.exe
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\bin\Debug\DisplayArrayValues.pdb
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\obj\Debug\DisplayArrayValues.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\obj\Debug\DisplayArrayValues.Form1.resources
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\obj\Debug\DisplayArrayValues.Properties.Resources.resources
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\obj\Debug\DisplayArrayValues.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\obj\Debug\DisplayArrayValues.exe
+C:\LAFit\Per\C#\Arrays\DisplayArrayValues\DisplayArrayValues\obj\Debug\DisplayArrayValues.pdb

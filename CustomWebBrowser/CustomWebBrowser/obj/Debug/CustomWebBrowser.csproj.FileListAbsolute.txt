@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\bin\Debug\CustomWebBrowser.exe.config
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\bin\Debug\CustomWebBrowser.exe
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\bin\Debug\CustomWebBrowser.pdb
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\obj\Debug\CustomWebBrowser.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\obj\Debug\CustomWebBrowser.Form1.resources
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\obj\Debug\CustomWebBrowser.Properties.Resources.resources
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\obj\Debug\CustomWebBrowser.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\obj\Debug\CustomWebBrowser.exe
+C:\LAFit\Per\C#\CustomWebBrowser\CustomWebBrowser\obj\Debug\CustomWebBrowser.pdb

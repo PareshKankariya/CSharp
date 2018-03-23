@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\multipleClasses\multipleClasses\bin\Debug\multipleClasses.exe.config
+C:\LAFit\Per\C#\multipleClasses\multipleClasses\bin\Debug\multipleClasses.exe
+C:\LAFit\Per\C#\multipleClasses\multipleClasses\bin\Debug\multipleClasses.pdb
+C:\LAFit\Per\C#\multipleClasses\multipleClasses\obj\Debug\multipleClasses.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\multipleClasses\multipleClasses\obj\Debug\multipleClasses.exe
+C:\LAFit\Per\C#\multipleClasses\multipleClasses\obj\Debug\multipleClasses.pdb

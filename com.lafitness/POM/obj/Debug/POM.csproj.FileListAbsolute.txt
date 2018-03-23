@@ -1,0 +1,14 @@
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\POM.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\POM.pdb
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\log4net.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\nunit.framework.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\WebDriver.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\WebDriver.Support.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\log4net.xml
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\nunit.framework.xml
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\WebDriver.xml
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\WebDriver.Support.xml
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\obj\Debug\POM.dll
+C:\Users\2042588\Documents\Visual Studio 2015\Projects\com.lafitness\POM\obj\Debug\POM.pdb

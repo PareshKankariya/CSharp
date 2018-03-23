@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\obj\Debug\MouseEvent.exe
+C:\LAFit\Per\C#\MouseEvent\MouseEvent\obj\Debug\MouseEvent.pdb

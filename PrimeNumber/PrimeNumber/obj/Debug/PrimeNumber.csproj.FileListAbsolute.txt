@@ -1,0 +1,5 @@
+C:\LAFit\Per\C#\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\LAFit\Per\C#\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\LAFit\Per\C#\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\LAFit\Per\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\LAFit\Per\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

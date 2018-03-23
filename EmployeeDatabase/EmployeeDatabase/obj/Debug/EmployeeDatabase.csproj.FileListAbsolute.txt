@@ -1,0 +1,11 @@
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\bin\Debug\Resources\NewEmployee_log.ldf
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\bin\Debug\Resources\NewEmployee.mdf
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\LAFit\Per\C#\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb

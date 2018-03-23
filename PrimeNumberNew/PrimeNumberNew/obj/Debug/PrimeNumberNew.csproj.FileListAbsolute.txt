@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\PrimeNumberNew\PrimeNumberNew\bin\Debug\PrimeNumberNew.exe.config
+C:\LAFit\Per\C#\PrimeNumberNew\PrimeNumberNew\bin\Debug\PrimeNumberNew.exe
+C:\LAFit\Per\C#\PrimeNumberNew\PrimeNumberNew\bin\Debug\PrimeNumberNew.pdb
+C:\LAFit\Per\C#\PrimeNumberNew\PrimeNumberNew\obj\Debug\PrimeNumberNew.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\PrimeNumberNew\PrimeNumberNew\obj\Debug\PrimeNumberNew.exe
+C:\LAFit\Per\C#\PrimeNumberNew\PrimeNumberNew\obj\Debug\PrimeNumberNew.pdb

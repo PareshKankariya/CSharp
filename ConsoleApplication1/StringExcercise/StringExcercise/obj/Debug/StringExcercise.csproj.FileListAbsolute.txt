@@ -1,0 +1,5 @@
+c:\users\2042588\documents\visual studio 2015\Projects\StringExcercise\StringExcercise\bin\Debug\StringExcercise.pdb
+c:\users\2042588\documents\visual studio 2015\Projects\StringExcercise\StringExcercise\obj\Debug\StringExcercise.csprojResolveAssemblyReference.cache
+c:\users\2042588\documents\visual studio 2015\Projects\StringExcercise\StringExcercise\obj\Debug\StringExcercise.pdb
+c:\users\2042588\documents\visual studio 2015\Projects\StringExcercise\StringExcercise\bin\Debug\StringExcercise.exe
+c:\users\2042588\documents\visual studio 2015\Projects\StringExcercise\StringExcercise\obj\Debug\StringExcercise.exe

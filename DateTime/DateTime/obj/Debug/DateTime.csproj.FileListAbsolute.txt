@@ -1,0 +1,8 @@
+C:\LAFit\Per\C#\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\LAFit\Per\C#\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\LAFit\Per\C#\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\LAFit\Per\C#\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\DateTime\DateTime\obj\Debug\DateTime.Properties.Resources.resources
+C:\LAFit\Per\C#\DateTime\DateTime\obj\Debug\DateTime.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\LAFit\Per\C#\DateTime\DateTime\obj\Debug\DateTime.pdb

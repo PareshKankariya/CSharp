@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\CreatingClasses\CreatingClasses\bin\Debug\CreatingClasses.exe.config
+C:\LAFit\Per\C#\CreatingClasses\CreatingClasses\bin\Debug\CreatingClasses.exe
+C:\LAFit\Per\C#\CreatingClasses\CreatingClasses\bin\Debug\CreatingClasses.pdb
+C:\LAFit\Per\C#\CreatingClasses\CreatingClasses\obj\Debug\CreatingClasses.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\CreatingClasses\CreatingClasses\obj\Debug\CreatingClasses.exe
+C:\LAFit\Per\C#\CreatingClasses\CreatingClasses\obj\Debug\CreatingClasses.pdb

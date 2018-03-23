@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\Arrays\ArraysTutorial\ArraysTutorial\bin\Debug\ArraysTutorial.exe.config
+C:\LAFit\Per\C#\Arrays\ArraysTutorial\ArraysTutorial\bin\Debug\ArraysTutorial.exe
+C:\LAFit\Per\C#\Arrays\ArraysTutorial\ArraysTutorial\bin\Debug\ArraysTutorial.pdb
+C:\LAFit\Per\C#\Arrays\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\Arrays\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.exe
+C:\LAFit\Per\C#\Arrays\ArraysTutorial\ArraysTutorial\obj\Debug\ArraysTutorial.pdb

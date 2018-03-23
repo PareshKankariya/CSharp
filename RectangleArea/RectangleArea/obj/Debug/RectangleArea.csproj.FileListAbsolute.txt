@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\LAFit\Per\C#\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+C:\LAFit\Per\C#\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\LAFit\Per\C#\RectangleArea\RectangleArea\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+C:\LAFit\Per\C#\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb

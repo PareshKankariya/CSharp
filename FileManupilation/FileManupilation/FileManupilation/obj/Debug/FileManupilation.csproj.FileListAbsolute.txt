@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\bin\Debug\FileManupilation.exe.config
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\bin\Debug\FileManupilation.exe
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\bin\Debug\FileManupilation.pdb
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\obj\Debug\FileManupilation.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\obj\Debug\FileManupilation.Form1.resources
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\obj\Debug\FileManupilation.Properties.Resources.resources
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\obj\Debug\FileManupilation.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\obj\Debug\FileManupilation.exe
+C:\LAFit\Per\C#\FileManupilation\FileManupilation\FileManupilation\obj\Debug\FileManupilation.pdb

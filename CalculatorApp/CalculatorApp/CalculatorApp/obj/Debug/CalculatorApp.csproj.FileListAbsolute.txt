@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\LAFit\Per\C#\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

@@ -1,0 +1,4 @@
+C:\LAFit\Per\C#\W3Resource_Excercise_Basic\BasicExcercise\BasicExcercise\bin\Debug\BasicExcercise.exe
+C:\LAFit\Per\C#\W3Resource_Excercise_Basic\BasicExcercise\BasicExcercise\bin\Debug\BasicExcercise.pdb
+C:\LAFit\Per\C#\W3Resource_Excercise_Basic\BasicExcercise\BasicExcercise\obj\Debug\BasicExcercise.exe
+C:\LAFit\Per\C#\W3Resource_Excercise_Basic\BasicExcercise\BasicExcercise\obj\Debug\BasicExcercise.pdb

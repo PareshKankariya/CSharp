@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\bin\Debug\ListBoxSelectIndexEvent.exe.config
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\bin\Debug\ListBoxSelectIndexEvent.exe
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\bin\Debug\ListBoxSelectIndexEvent.pdb
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\obj\Debug\ListBoxSelectIndexEvent.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\obj\Debug\ListBoxSelectIndexEvent.Form1.resources
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\obj\Debug\ListBoxSelectIndexEvent.Properties.Resources.resources
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\obj\Debug\ListBoxSelectIndexEvent.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\obj\Debug\ListBoxSelectIndexEvent.exe
+C:\LAFit\Per\C#\ListBoxSelectIndexEvent\ListBoxSelectIndexEvent\obj\Debug\ListBoxSelectIndexEvent.pdb

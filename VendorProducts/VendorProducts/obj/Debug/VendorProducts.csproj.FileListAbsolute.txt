@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\bin\Debug\VendorProducts.exe.config
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\bin\Debug\VendorProducts.exe
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\bin\Debug\VendorProducts.pdb
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\obj\Debug\VendorProducts.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\obj\Debug\VendorProducts.Form1.resources
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\obj\Debug\VendorProducts.Properties.Resources.resources
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\obj\Debug\VendorProducts.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\obj\Debug\VendorProducts.exe
+C:\LAFit\Per\C#\VendorProducts\VendorProducts\obj\Debug\VendorProducts.pdb

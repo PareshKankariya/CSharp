@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\bin\Debug\GetDataFromDatabase.exe.config
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\obj\Debug\GetDataFromDatabase.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\obj\Debug\GetDataFromDatabase.Form1.resources
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\obj\Debug\GetDataFromDatabase.Properties.Resources.resources
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\obj\Debug\GetDataFromDatabase.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\bin\Debug\GetDataFromDatabase.exe
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\bin\Debug\GetDataFromDatabase.pdb
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\obj\Debug\GetDataFromDatabase.exe
+C:\LAFit\Per\C#\GetDataFromDatabase\GetDataFromDatabase\obj\Debug\GetDataFromDatabase.pdb

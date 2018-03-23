@@ -1,0 +1,6 @@
+C:\LAFit\Per\C#\Methods\Methods\bin\Debug\Methods.exe.config
+C:\LAFit\Per\C#\Methods\Methods\bin\Debug\Methods.exe
+C:\LAFit\Per\C#\Methods\Methods\bin\Debug\Methods.pdb
+C:\LAFit\Per\C#\Methods\Methods\obj\Debug\Methods.exe
+C:\LAFit\Per\C#\Methods\Methods\obj\Debug\Methods.pdb
+C:\LAFit\Per\C#\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

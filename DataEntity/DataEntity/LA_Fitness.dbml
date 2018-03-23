@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LA_Fitness" Class="LA_FitnessDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=crp-tst-02;Initial Catalog=LA_Fitness;Integrated Security=True" SettingsObjectName="DataEntity.Properties.Settings" SettingsPropertyName="LA_FitnessConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CustomerOrig_Extended" Member="CustomerOrig_Extendeds">
+    <Type Name="CustomerOrig_Extended">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PossessesEmail" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="NeedToSignEFT" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ModifyDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MembershipPlan" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EmailAgreement" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ResponsibleParty" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PFEnhancementFee" Type="System.Decimal" DbType="Decimal(9,2)" CanBeNull="true" />
+      <Column Name="EnhancementNextBillDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CustomerAlertsID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CampaignSource" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PromoCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="FutureDuesChangeDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="OriginalAgreementNumber" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="AnnualAuthPayResponse" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="AnnualAuthPayDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BarcodeFeeWaivedDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BypassSignatureCount" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="CorporateID" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="ProfileImgPath" Type="System.String" DbType="VarChar(1000)" CanBeNull="true" />
+      <Column Name="PTAccrualRate" Type="System.Decimal" DbType="Decimal(9,3)" CanBeNull="true" />
+      <Column Name="PTAccrualTotal" Type="System.Decimal" DbType="Decimal(10,3)" CanBeNull="true" />
+      <Column Name="MobileBarcodeSecretKey" Type="System.Data.Linq.Binary" DbType="Binary(10)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="EnhancementFeeBillingFrequency" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsCorporation" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PhotoDeletionCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CorporateDuesAmount" Type="System.Decimal" DbType="Decimal(9,2)" CanBeNull="true" />
+      <Column Name="DuesDiscountApplied" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NoCheckInRestriction" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DigToNonDigitalChangeDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="HasMobileBarcode" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="FutureDuesAmount" Type="System.Decimal" DbType="Decimal(9,2)" CanBeNull="true" />
+      <Column Name="EFTUpdateFormDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ProductOwed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="LastUsedBarcode" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="GrossClubNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EFTClubNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

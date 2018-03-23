@@ -1,0 +1,9 @@
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\bin\Debug\LocalDBApp.exe.config
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\bin\Debug\LocalDBApp.exe
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\bin\Debug\LocalDBApp.pdb
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\obj\Debug\LocalDBApp.csprojResolveAssemblyReference.cache
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\obj\Debug\LocalDBApp.Form1.resources
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\obj\Debug\LocalDBApp.Properties.Resources.resources
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\obj\Debug\LocalDBApp.csproj.GenerateResource.Cache
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\obj\Debug\LocalDBApp.exe
+C:\LAFit\Per\C#\LocalDBApp\LocalDBApp\obj\Debug\LocalDBApp.pdb
